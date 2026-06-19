@@ -41,7 +41,7 @@ El código fuente del proyecto se organiza bajo el siguiente estándar limpio de
 ├── InterfazGrafica.png                   # Imagen de visualización de la interfaz
 ├── LICENSE                               # Licencia actual del proyecto
 └── README.md                             # Documentación del proyecto
-
+```
 ## Instalación y Ejecución
 
 Para Usuarios (Ejecución Rápida)
