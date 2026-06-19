@@ -51,13 +51,13 @@ Descarga el archivo `Calculadora.sln` del repositorio.
 
 Haz doble clic sobre él para iniciar el programa en Visual Studio.
 
->.[!Note].
+>[!Note]
 >Nota: Se requiere tener instalado el Entorno de desarrollo IDE Visual Studio 2022 en el equipo.
 
 ## Vista Previa de la Interfaz
 
 A continuación se muestra una captura de la interfaz gráfica de la aplicación:
 
-/InterfazGrafica.png
+![Interfaz Grágica de la calculadora](InterfazGrafica.png)
 
 Desarrollado como parte de proyectos enfocados en la arquitectura limpia, diseño UI/UX de escritorio y lógica de software estructurada especificamente en manejo de Excepciones.
