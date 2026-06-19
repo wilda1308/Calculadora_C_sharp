@@ -1,0 +1,21 @@
+C:\Users\wilsa\OneDrive\Documentos\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\wilsa\OneDrive\Documentos\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\wilsa\OneDrive\Documentos\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\wilsa\OneDrive\Documentos\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\wilsa\OneDrive\Documentos\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\wilsa\OneDrive\Documentos\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\wilsa\OneDrive\Documentos\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\wilsa\OneDrive\Documentos\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\wilsa\OneDrive\Documentos\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\wilsa\OneDrive\Documentos\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\wilsa\OneDrive - UCompensar\Proyectos Universidad\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\wilsa\OneDrive - UCompensar\Proyectos Universidad\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\wilsa\OneDrive - UCompensar\Proyectos Universidad\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\wilsa\OneDrive - UCompensar\Proyectos Universidad\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\wilsa\OneDrive - UCompensar\Proyectos Universidad\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config
+C:\Users\wilsa\OneDrive - UCompensar\Proyectos Universidad\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\wilsa\OneDrive - UCompensar\Proyectos Universidad\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\wilsa\OneDrive - UCompensar\Proyectos Universidad\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\wilsa\OneDrive - UCompensar\Proyectos Universidad\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\wilsa\OneDrive - UCompensar\Proyectos Universidad\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\wilsa\OneDrive - UCompensar\Proyectos Universidad\ProjectosDavidAlgoritmosII\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
